@@ -1,4 +1,4 @@
-## v2ray-heroku
+## wahaha0099
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wahaha0099/wahaha.git)
 
 ### heroku上部署v2ray
